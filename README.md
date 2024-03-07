@@ -1,25 +1,46 @@
-<h1 align="center">Hola 👋, soy Juan Daniel Valderrama</h1>
-<h3 align="center">un apasionado desarrollador front-end con experiencia en la creación de interfaces web atractivas y funcionales.</h3>
+# ¡Hola, soy [Tu Nombre]! 👋
 
- <img src="https://komarev.com/ghpvc/?username=juano39&label=Profile%20views&color=0e75b6&style=flat" alt="juano39" /> 
+¡Bienvenido a mi rincón en GitHub! Soy un apasionado del desarrollo de software, con un fuerte enfoque en el desarrollo front-end. Aquí encontrarás una variedad de proyectos donde he explorado tecnologías como React, Vue, Angular, Astri, PHP, Python, Figma, Node y Express.
 
--🌱 Yo' actualmente estoy aprendiendo **goland**
+## Sobre Mí
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://symphonious-taiyaki-3b6653.netlify.app/](https://symphonious-taiyaki-3b6653.netlify.app/ )
+- 👨‍💻 Desarrollador Front-end entusiasta
+- 🚀 Explorando constantemente nuevas tecnologías para mejorar mis habilidades
+- 🌐 Amante de la creación de experiencias web intuitivas y atractivas
+- 🎨 Diseñador ocasional, plasmando ideas en Figma
 
-- 📫 Cómo contactarme **juan30633@gmail.com**
+## Proyectos Destacados
 
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-<a href="https://twitter.com/@juandanielvg02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- generator/master/src/images/icons/Social/twitter.svg" alt="@juandanielvg02" height="30" width="40" /></a> <a href="
-https://linkedin.com /en/juan daniel valderrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons /Social/linked-in-alt.svg" alt="juan daniel valderrama" height="30" width="40" /></a>
-<a href="https://instagram.com/juandanielvg02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/ instagram.svg" alt="juandanielvg02" altura="30" ancho="40" /></a>
-</p>
+### [Nombre del Proyecto 1]
+Breve descripción del proyecto y las tecnologías clave utilizadas.
 
-<h3 align="left">Idiomas y herramientas:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos /angular/angular.svg" alt="angular" ancho="40" altura="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank " rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https:// www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width= "40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https:// www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width= "40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent .com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://desarrollador .mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript /javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs " width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https: //raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href=" https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https:// reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon /master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height ="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent. com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs. org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" ancho="40" altura="40"/> </a> </p>
+### [Nombre del Proyecto 2]
+Otra descripción breve y las tecnologías emocionantes que forman parte de este proyecto.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juano39&show_icons=true&locale=en&layout=compact" alt="juano39" /> </p>
+## Tecnologías Favoritas
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=juano39&show_icons=true&locale=en" alt="juano39" /> </p>
+- 💻 React
+- 🖖 Vue
+- 🅰️ Angular
+- ☎️ Astri
+- 🐍 Python
+- 🌐 PHP
+- 🎨 Figma
+- 🚀 Node.js y Express
 
+## Cómo Empezar
+
+1. 📥 Clona este repositorio: `git clone https://github.com/tu-usuario/tu-repositorio.git`
+2. 🚀 Instala las dependencias: `npm install` o `yarn install`
+3. 🔧 Configura el entorno de desarrollo: `npm start` o `yarn start`
+
+## Colaboración
+
+¡Estoy abierto a colaboraciones y sugerencias! Si tienes ideas, encuentras errores o simplemente quieres decir hola, ¡no dudes en abrir un problema o enviar una solicitud de extracción!
+
+## Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/tu-linkedin)
+- [Twitter](https://twitter.com/tu-twitter)
+
+¡Gracias por visitar mi repositorio! Espero que encuentres algo interesante. 😊
